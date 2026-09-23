@@ -1,7 +1,7 @@
 # Evidence guide: where proof lives in a reproduction package
 
 <!--
-THIS IS THE PART YOU WRITE (new this week: week 1 handed you this file
+THIS IS THE PART YOU WRITE (new this week: Unit 1 handed you this file
 finished; the scaffolding fades). The skill uses this guide as its map:
 for every kind of proof a rubric check names, this file says WHERE to
 find it in a package and WHAT GOOD LOOKS LIKE when you do.
@@ -19,8 +19,8 @@ Under each family heading below, write:
   ("environment is thorough").
 
 A rubric check whose evidence this guide cannot locate is a check
-nobody else can execute; your operator swap showed you what that feels
-like. Write the map you wish your executor had.
+nobody else can execute; the rubric swap showed you what that feels
+like. Write the map you wish your grader had.
 -->
 
 ## Environment

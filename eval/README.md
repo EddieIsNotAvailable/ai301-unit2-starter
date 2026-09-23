@@ -22,8 +22,8 @@ eval run: eval mode ignores it by design.
 Useful flags: `--limit 3` for a quick smoke run, `--only
 pkg-07,pkg-12` to re-grade just the named packages, `--workers N` to
 change parallelism (default 5), `--include-calibration` to also grade
-the four worksheet packages (they are never scored), `--out
-results.json` to keep the full per-check results.
+the four calibration packages from the in-class activity (they are
+never scored), `--out results.json` to keep the full per-check results.
 
 `--only` is the flag for the revise loop: when a full run disagrees on
 two packages, re-run only those two while you adjust your components
@@ -93,8 +93,7 @@ One line per package while grading, then a table:
   agreement of 18 of 20 or better passes (exactly 18 passes), AND the
   category floor holds. The 4 calibration packages are never scored.
   Full bar details, including the human read of your components: the
-  course portal's Check-In page (`ai301/projects/project_2.md` in this
-  repo).
+  Unit 2 Assignment tab on the course portal.
 
 Disagreements are the feedback loop: open the package the table names,
 reread the artifacts against the issue, and decide whether your check's

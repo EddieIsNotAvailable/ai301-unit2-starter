@@ -15,14 +15,14 @@ Staff wrote this file. It ships filled; you do not edit it this week.
 Only issues in the course's Path Review repository are in scope this
 week:
 
-- Repo: `<ORG>/<PATH-REVIEW-REPO>` <!-- paste your section's repo from the Unit 1 Check-In page -->
+- Repo: `<ORG>/<PATH-REVIEW-REPO>` <!-- paste your section's repo from the Unit 1 Assignment tab -->
 
 If the repo line above still reads as a bracketed placeholder, your
 cohort's copy has not been finalized: stop and ask your instructor for
 the Path Review repo link before running live mode. Eval runs never
 read this file, so the harness and the eval bar work either way.
 
-Your package must belong to your chosen issue from Week 1 (or the
+Your package must belong to your chosen issue from Unit 1 (or the
 house issue the instructor routed you to). Do not grade packages for
 issues in any other repository, however tempting; the wider GitHub
 comes later in the course.
