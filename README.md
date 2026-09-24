@@ -21,7 +21,7 @@ those pages tell you to install and run.
 Clone this repo, then copy `skill/` into Claude Code's skills folder:
 
     git clone https://github.com/codepath/ai301-unit2-starter.git
-    mkdir -p ~/.claude/skills
+    mkdir -p ~/.claude/skills/repro-check
     cp -R ai301-unit2-starter/skill/* ~/.claude/skills/repro-check
 
 Edit `rubric.md`, `references/evidence-guide.md`, and `voice-guide.md`
